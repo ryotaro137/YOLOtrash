@@ -27,5 +27,7 @@ valid number of imgaes:1681 background:12
 
  **If you are using the dataset, please download the dataset from  [here](https://drive.google.com/drive/folders/1Gxvu3gVXbiiK5-AdrvCBuFRbIU5AKWjF?usp=sharing).**
 
-
+# Models
+We are publishing our own model trained with this YOLOtrash. If you are interested in using it, please visit the following URL.
+ [here](https://drive.google.com/drive/folders/1Gxvu3gVXbiiK5-AdrvCBuFRbIU5AKWjF?usp=sharing)
 

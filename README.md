@@ -25,9 +25,21 @@ valid number of imgaes:1681 background:12
 * Cardboard 179
 * Cigarette 545
 
- **If you are using the dataset, please download the dataset from  [here](https://drive.google.com/drive/folders/1Gxvu3gVXbiiK5-AdrvCBuFRbIU5AKWjF?usp=sharing).**
+ **If you are using the dataset, please download the dataset from  [here](https://drive.google.com/file/d/1m51Q_9ZUHXdKcNk_B0Ud26dvTxc-XLHM/view?usp=sharing).**
 
-# Models
-We are publishing our own model trained with this YOLOtrash. If you are interested in using it, please visit the following URL.
- [here](https://drive.google.com/drive/folders/1Gxvu3gVXbiiK5-AdrvCBuFRbIU5AKWjF?usp=sharing)
+# Ref
+We are publishing our own model trained with this YOLOtrash. If you use it, please cite the following paper.
+
+```
+@article{Ryotaro Harada2023,
+  title={Trash Detection Algorithm Suitable for Mobile Robots Using Improved YOLO},
+  author={Ryotaro Harada and Tadahiro Oyama and Kenji Fujimoto and Toshihiko Shimizu and Masayoshi Ozawa and Julien Samuel Amar and Masahiko Sakai},
+  journal={Journal of Advanced Computational Intelligence and Intelligent Informatics},
+  volume={27},
+  number={4},
+  pages={622-631},
+  year={2023},
+  doi={10.20965/jaciii.2023.p0622}
+}
+```
 
